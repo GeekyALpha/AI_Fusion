@@ -1,4 +1,4 @@
-const GPT_API_KEY = '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';
+const GPT_API_KEY = 'api removed due to security constraints';
 
 export async function generateAIAnalysis(data: any, prompt: string): Promise<string> {
   try {
